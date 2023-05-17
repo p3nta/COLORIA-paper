@@ -1,2 +1,1 @@
-# COLORIA-paper
-# COLORIA-paper
+# COLORIA Paper
