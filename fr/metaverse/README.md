@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9dd77dfc-8429-49be-94bc-52ca438e6381.png" alt=""><figcaption></figcaption></figure>
 
-Bienvenue dans le monde futuriste de COLORIA, un territoire d'exploration créative aux possibilités infinies. Le paysage est une fusion à couper le souffle d'éléments organiques et technologiques, avec des gratte-ciel imposants et des jardins étendus entrelacés. Le monde naturel est comme vous ne l'avez jamais vu, avec des forêts iridescentes, des rivières scintillantes, et une flore et une faune colorées.
+Bienvenue dans le monde futuriste de COLORIA, un territoire d'exploration créative aux possibilités infinies. Le paysage est une fusion à couper le souffle d'éléments organiques et technologiques, avec des gratte-ciels imposants et des jardins étendus entrelacés. Le monde naturel est comme vous ne l'avez jamais vu, avec des forêts iridescentes, des rivières scintillantes, et une flore et une faune colorées.
 
 <figure><img src="../.gitbook/assets/COLORIA-Map@2x-100.jpg" alt=""><figcaption></figcaption></figure>
 
