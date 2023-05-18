@@ -2,8 +2,14 @@
 
 <figure><img src="../.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
 
-In COLORIA, we view our users as creators, as we believe that everyone has a creative potential that deserves to be explored and developed. That's why we've created the T-Squad NFT collection, which represents each creator's unique avatars in the metaverse. The T-Squads are 3D characters, each possessing unique rarity among the 20,000 available. They are designed to allow each creator to represent themselves uniquely and personally within COLORIA. Whether you're an artist, a scientist, a gamer, or simply a dreamer, your T-Squad will be the avatar accompanying you on all your adventures within COLORIA.
+In the universe of COLORIA, we see our users as not just participants, but creators. We firmly believe that everyone holds a creative potential that deserves to be explored and developed. This belief is the cornerstone of our unique NFT collection, the Colorians. These personalized avatars in the metaverse are distinctive 3D characters, each with their own rarity among 20,000 available.
 
-Each T-Squad is unique, with its own features like specific clothing and accessories, as well as special abilities in the world of COLORIA. Community members can collect different T-Squads based on their rarity, appearance, and abilities, and utilize these characters in their experience in COLORIA. The T-Squad collection plays a significant part in COLORIA's economy, as it allows community members to actively involve themselves in the metaverse universe, participate in events, and receive special rewards.
+Each Colorian is identified by a unique registration number, designated "T-Squad #", underscoring their uniqueness and individual place within the vast community of COLORIA.
+
+The Colorians have been designed to allow each user to represent themselves in a unique and personalized way within COLORIA. Whether you're an artist, a scientist, a gamer, or a dreamer, your Colorian, identifiable by its T-Squad #, will be your loyal companion during your adventures within COLORIA.
+
+Every Colorian is unique, endowed with their own attributes such as specific clothing and accessories, as well as special skills within the world of COLORIA. Community members can build their own collection of Colorians based on their rarity, appearance, and abilities, and use these characters to enrich their COLORIA experience.
+
+The Colorians collection plays a key role in the economy of COLORIA. It encourages active community participation in the metaverse, facilitates engagement in events, and offers opportunities to earn special rewards. The Colorians are not just a collection of avatars, but a way for each user to carve their own unique story within the dynamic universe of COLORIA, identified by their distinct T-Squad # registration number.
 
 **Explore the collection here:** [https://secret-stash.io/collection/266](https://secret-stash.io/collection/266)
