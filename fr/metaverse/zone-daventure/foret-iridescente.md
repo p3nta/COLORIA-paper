@@ -2,7 +2,7 @@
 description: >-
   Une forêt éblouissante de couleurs chatoyantes et de formes organiques
   étranges. Les arbres émettent une lumière douce et réconfortante, tandis que
-  les créatures mystérieuses et pacifiques de la forêt
+  des créatures mystérieuses et pacifiques parcourent la forêt
 ---
 
 # Forêt iridescente
