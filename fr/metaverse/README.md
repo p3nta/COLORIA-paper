@@ -10,4 +10,4 @@ Il y a différentes zones à explorer, chacune avec ses propres caractéristique
 
 En vous aventurant plus loin, vous découvrirez la zone d'aventure, où vous pourrez vous lancer dans des quêtes et des missions palpitantes qui mettront à l'épreuve vos compétences et votre courage. La zone de détente est l'endroit parfait pour se ressourcer, avec des jardins sereins, des zones de méditation et des cascades apaisantes.
 
-Dans tout COLORIA, vous rencontrerez des habitants amicaux, organiques et artificiels, qui vous guideront dans votre voyage et vous inspireront à atteindre de nouveaux sommets de créativité et d'imagination. Que vous soyez un membre chevronné de T-Squad ou un nouveau venu dans le metaverse, COLORIA est un monde qui capturera votre cœur et votre imagination.
+Dans tout COLORIA, vous rencontrerez des habitants amicaux, organiques et artificiels, qui vous guideront dans votre voyage et vous inspireront à atteindre de nouveaux sommets de créativité et d'imagination. Que vous soyez un Colorian chevronné ou un nouveau venu dans le metaverse, COLORIA est un monde qui capturera votre cœur et votre imagination.
