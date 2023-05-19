@@ -37,3 +37,4 @@
 * [Governance](governance/README.md)
   * [Roles](governance/roles.md)
   * [Decision Making](governance/decision-making.md)
+* [🌈 Join COLORIA](https://www.c0loria.com/)
