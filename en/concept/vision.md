@@ -1,13 +1,15 @@
 # Vision
 
-In COLORIA, our actions and decisions are guided by core values that we deem essential for creating a healthy and positive digital environment conducive to personal growth and development.
+## Unleashing limitless creativity
 
-Our first core value is freedom of expression. Every individual should be able to express themselves freely, without fear of censorship or judgment. Thus, COLORIA is a space where imagination and creativity are encouraged, where new ideas are explored, and where everyone can be themselves.
+Creativity is the driving force behind every interaction. It's a realm where minds flourish, and ideas come to life without boundaries. In this virtual universe, the barriers of the physical world fade away, allowing each individual to unleash their creative potential. From artists to entrepreneurs, innovators to daring thinkers, the metaverse offers a blank canvas where imagination can flourish unrestricted.
 
-Inclusion is our second cherished value at COLORIA. In our metaverse, every person deserves their place, regardless of their origin, gender, religion, sexual orientation, or disability. We are committed to creating a respectful environment, where everyone is valued and celebrated for their differences.
+## Emancipation and free expression
 
-The third value that drives us is collaboration. We are convinced that cooperation and teamwork are necessary to achieve ambitious goals and create innovative projects. We thus encourage the creation of user communities and collaborative projects so that everyone can make their contribution to COLORIA and find their place.
+Beyond being a mere work tool, the metaverse is a catalyst for creative emancipation. It transcends constraints and conventions, enabling individuals to find their path, express themselves freely, and connect with like-minded creatives. In this space, judgment fades, and diversity is celebrated. Everyone can embrace their uniqueness, share ideas, and collaborate to create a harmonious and innovative world.
 
-Finally, responsibility is our fourth and final core value. We are aware of our impact on our users and the community as a whole. That's why we commit to making ethical decisions, protecting the privacy of our users, and preserving the digital environment in which we operate.
+## Shaping an inspiring future
 
-At COLORIA, we believe that these values are crucial to creating a healthy and positive digital environment, where everyone can freely express themselves, collaborate with others, and contribute to building a better world. We are committed to upholding these values in all our actions and making COLORIA a space where everyone can exploit their full potential.
+The metaverse is more than a futuristic concept; it's a gateway to an inspiring future where possibilities are limitless. Through the convergence of technology and creativity, we can push the boundaries of existence and shape a world that aligns with our deepest aspirations. By creating a metaverse focused on innovation, collaboration, and creative emancipation, we pave the way for a profound transformation of our reality, where inspiration, wonder, and constant evolution prevail.
+
+In this ever-evolving space, we can embrace our creative nature, explore new horizons, and shape a future where the impossible becomes possible.
