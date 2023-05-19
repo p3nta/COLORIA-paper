@@ -1,6 +1,6 @@
 # Présentation
 
-COLORIA est un metaverse innovant basé sur la blockchain Ternoa, qui offre une expérience immersive et engageante dans un environnement numérique de nouvelle génération. Il s'agit d'un univers virtuel en 3D, dans lequel les utilisateurs peuvent explorer une variété d'espaces différents, chacun ayant ses propres activités et possibilités.
+COLORIA est un metaverse révolutionnaire bâti sur la blockchain [Ternoa](https://www.ternoa.network/), qui est spécifiquement dédiée aux NFTs. Cette particularité nous permet d'élaborer une expérience utilisateur plus riche et plus complète en exploitant les fonctionnalités innovantes que Ternoa propose, comme les Time Capsules, le gToken, les Secret NFT, le Soulbound Token, etc. COLORIA se présente comme un univers virtuel 3D où les utilisateurs ont la possibilité d'explorer une multitude d'espaces distincts, chacun renfermant des activités et opportunités uniques.
 
 La vision de COLORIA est de créer un metaverse où les utilisateurs peuvent s'exprimer librement, explorer leur créativité et leur imagination, et interagir avec une communauté de personnes partageant les mêmes idées. Nous croyons que le metaverse peut être une plateforme pour le développement personnel, l'apprentissage et la découverte de soi, et nous souhaitons créer un espace numérique où ces objectifs peuvent être atteints.
 
