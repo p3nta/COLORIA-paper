@@ -1,11 +1,7 @@
 # Presentation
 
-COLORIA is a revolutionary metaverse built on the Ternoa blockchain, which is specifically dedicated to NFTs. This unique feature allows us to craft a richer and more comprehensive user experience by leveraging the innovative functionalities that Ternoa provides, such as Time Capsules, gToken, Secret NFTs, the Soulbound Token, and more. COLORIA presents itself as a 3D virtual universe where users have the opportunity to explore a multitude of distinct spaces, each housing unique activities and opportunities.
+COLORIA is a revolutionary metaverse built on the Ternoa blockchain, a blockchain specifically designed to natively explore all the best features of NFTs, a perfect solution to meet the needs of the COLORIA metaverse. This specificity allows us to design a richer and more complete "creator" experience by exploiting the innovative features that Ternoa offers, such as Time Capsules, gToken, Secret NFT, Soulbound Token, lending, etc.&#x20;
 
-The vision of COLORIA is to create a metaverse where users can freely express themselves, explore their creativity and imagination, and interact with a community of like-minded individuals. We believe the metaverse can be a platform for personal development, learning, and self-discovery, and we aim to create a digital space where these goals can be achieved.
+COLORIA is a 3D virtual universe where users have the opportunity to explore a multitude of distinct spaces, each containing unique activities and opportunities. The vision of COLORIA is to create a metaverse where "creators" can freely express themselves, explore their creativity and imagination, and interact with a community of like-minded people without constraints and create what we call the "**creative economy**".&#x20;
 
-Our metaverse is unique in that it is right-brain focused, and encourages creativity, imagination, emotion, and intuition. We believe these aspects are essential for a fulfilling life and we have created COLORIA to highlight them.
-
-In COLORIA, Colorians can discover a variety of different zones, each with its own ambiance and activities. To enter COLORIA, there are two ways: owning one of the NFTs from the T-Ring collection or a T-Squad, each offering unique experiences. We believe COLORIA is the next evolution of virtual worlds, and we are excited to share this vision with you.
-
-Join us in discovering a world where your right brain can freely express itself and the possibilities are endless.
+We believe that the metaverse can be a platform for personal development, learning and self-discovery, and we aim to create an immersive digital space where these objectives can be achieved. COLORIA encourages creativity, imagination, emotion, and intuition. We see these aspects as essential to a fulfilling life and have created COLORIA to amplify them.
