@@ -1,4 +1,4 @@
-# Metaverse
+# 🌐 Metaverse
 
 <figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9dd77dfc-8429-49be-94bc-52ca438e6381.png" alt=""><figcaption></figcaption></figure>
 
