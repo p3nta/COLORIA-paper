@@ -3,7 +3,6 @@
 * [📚 Introduction](README.md)
   * [Objectif du Paper](introduction/objectif-du-paper.md)
   * [Présentation](introduction/presentation.md)
-  * [Futur du Metaverse](introduction/futur-du-metaverse.md)
 * [💡 Concept](concept/README.md)
   * [Vision](concept/vision.md)
   * [Valeurs](concept/valeurs.md)

@@ -1,4 +1,4 @@
-# Concept
+# 💡 Concept
 
 Le concept de COLORIA est basé sur l'idée d'un metaverse où les utilisateurs peuvent explorer leur créativité, leur imagination et leurs émotions, et interagir avec une communauté de personnes partageant les mêmes idées. COLORIA offre un environnement numérique de nouvelle génération en 3D, dans lequel les utilisateurs peuvent découvrir une variété de zones différentes, chacune avec sa propre ambiance et ses propres activités.
 
