@@ -1,10 +1,3 @@
----
-description: >-
-  L'endroit où les dernières avancées technologiques sont présentées, avec des
-  gadgets et des dispositifs de pointe qui vous épateront. Vous pourrez
-  interagir avec des robots avancés et même tester des
----
-
 # Zone d'innovation
 
 <figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__b24ed9eb-797a-4bb4-85e7-b6bbf8d5f245.png" alt=""><figcaption></figcaption></figure>

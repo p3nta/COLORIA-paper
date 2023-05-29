@@ -1,14 +1,8 @@
----
-description: >-
-  Un quartier animé de créativité, avec des studios et des galeries exposant les
-  œuvres d'artistes talentueux de tout le metaverse.
----
-
 # Creative District
 
-Le Creative District est l'endroit idéal pour les artistes et les créatifs qui souhaitent exposer leurs œuvres aux Colorians. Cette zone est divisée en deux parties : l'exposition et l'atelier.
-
 <figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__32c96a88-597d-4e3a-ab40-fa9ab0bf7405.png" alt=""><figcaption></figcaption></figure>
+
+Le Creative District est l'endroit idéal pour les artistes et les créatifs qui souhaitent exposer leurs œuvres aux Colorians. Cette zone est divisée en deux parties : l'exposition et l'atelier.
 
 Dans la partie Atelier, chacun peut participer, apprendre et partager ses connaissances en matière de dessin, peinture, musique, production cinématographique, sculpture, modélisation 3D, photographie, vidéo, écriture, théâtre, art numérique, art culinaire, architecture, et bien plus encore.
 
