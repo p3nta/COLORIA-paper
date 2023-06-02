@@ -1,10 +1,10 @@
 # 🌐 Metaverse
 
-<figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9dd77dfc-8429-49be-94bc-52ca438e6381.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../en/.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9dd77dfc-8429-49be-94bc-52ca438e6381.png" alt=""><figcaption></figcaption></figure>
 
 Bienvenue dans le monde futuriste de COLORIA, un territoire d'exploration créative aux possibilités infinies. Le paysage est une fusion à couper le souffle d'éléments organiques et technologiques, avec des gratte-ciel imposants et des jardins étendus entrelacés. Le monde naturel est comme vous ne l'avez jamais vu, avec des forêts iridescentes, des rivières scintillantes, et une flore et une faune colorées.
 
-<figure><img src="../.gitbook/assets/COLORIA-Map@2x-100.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../en/.gitbook/assets/COLORIA-Map@2x-100.jpg" alt=""><figcaption></figcaption></figure>
 
 Il y a différentes zones à explorer, chacune avec ses propres caractéristiques et attractions uniques. Dans le centre névralgique, vous trouverez le portail principal qui vous connecte à d'autres royaumes de COLORIA. Le district artistique est un hub animé de créativité, avec des studios et des galeries présentant les œuvres d'artistes talentueux de tout le métaverse. La zone d'innovation est l'endroit où les dernières avancées technologiques sont exposées, avec des gadgets et des appareils de pointe qui vous émerveilleront.
 

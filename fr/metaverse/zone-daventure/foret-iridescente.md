@@ -7,7 +7,7 @@ description: >-
 
 # Forêt iridescente
 
-<figure><img src="../../.gitbook/assets/Jeem_A_dazzling_forest_of_shimmering_colors_and_strange_organic_6460d781-9f3a-4e97-b91f-01c54e298d74 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jeem_A_dazzling_forest_of_shimmering_colors_and_strange_organic_6460d781-9f3a-4e97-b91f-01c54e298d74 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La forêt serait un lieu enchanteur et mystique, habité par des créatures étranges et fascinantes. Les arbres seraient immenses et majestueux, avec des troncs torsadés et des feuilles brillantes dans des tons pastels et arc-en-ciel, en harmonie avec le monde COLORIA. Les fleurs seraient nombreuses, aux couleurs éclatantes et aux formes exotiques.
 

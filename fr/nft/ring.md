@@ -2,7 +2,7 @@
 
 "Coloria Ring" est une collection de NFT exclusifs qui donne accès au metaverse COLORIA. Chaque T-Ring est unique et offre à son propriétaire des avantages et des privilèges uniques dans le monde virtuel. Les T-Rings sont une façon de garantir une certaine rareté dans l'univers numérique et de récompenser les membres les plus actifs et les plus impliqués de la communauté.
 
-<figure><img src="../.gitbook/assets/preview-t-ring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../en/.gitbook/assets/preview-t-ring.png" alt=""><figcaption></figcaption></figure>
 
 Les Colorians qui possèdent une T-Ring ont un accès prioritaire à toutes les zones de COLORIA, ainsi qu'à des événements exclusifs et des récompenses spéciales. En tant que propriétaires de T-Ring, les Colorians font partie d'une communauté d'élite de créatifs, de pionniers et d'innovateurs, qui contribuent à faire de COLORIA un lieu exceptionnel où l'imagination et la créativité sont célébrées.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Zone de détente
 
-<figure><img src="../../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__bf7712c0-61a6-403f-8ffc-5aad6a2d8fe9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../en/.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__bf7712c0-61a6-403f-8ffc-5aad6a2d8fe9.png" alt=""><figcaption></figcaption></figure>
 
 La zone de détente dans COLORIA est bien plus qu'un simple endroit pour se relaxer et se reposer. C'est un lieu pour explorer son être intérieur, se connecter avec soi-même et découvrir de nouvelles façons de se développer personnellement. Les jardins sereins, les cascades apaisantes et les espaces de méditation sont parfaits pour la contemplation et la réflexion, tandis que les salles de yoga sont l'endroit idéal pour se détendre le corps et l'esprit. Mais la zone de détente ne se limite pas qu'au yoga et à la méditation. Les Colorians peuvent également explorer leur sexualité, avec des ateliers de tantra.
 

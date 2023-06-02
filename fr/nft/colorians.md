@@ -1,6 +1,6 @@
 # Colorians
 
-<figure><img src="../.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../en/.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
 
 Dans l'univers de COLORIA, nous considérons nos utilisateurs non seulement comme des participants mais également comme des créateurs. Nous sommes convaincus que chacun détient un potentiel créatif qui mérite d'être exploré et développé. Cette croyance est à l'origine de notre collection de NFT uniques, les Colorians. Ces avatars personnalisés dans le métaverse sont des personnages 3D distinctifs, chacun avec sa propre rareté parmi 20 000 disponibles.
 

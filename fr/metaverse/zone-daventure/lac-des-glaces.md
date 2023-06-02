@@ -1,6 +1,6 @@
 # Lac des Glaces
 
-<figure><img src="../../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9d6df9c8-7a3f-4759-91aa-d8919e1925b1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../en/.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9d6df9c8-7a3f-4759-91aa-d8919e1925b1.png" alt=""><figcaption></figcaption></figure>
 
 Situé au sommet des montagnes de cristal, le Lac des Glaces est gouverné par la neige éternelle et les températures glaciales. Cependant, une faune et une flore riche y ont trouvé refuge, offrant une ambiance unique et captivante.
 

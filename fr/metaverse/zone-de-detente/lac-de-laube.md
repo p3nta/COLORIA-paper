@@ -1,6 +1,6 @@
 # Lac de l'Aube
 
-<figure><img src="../../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__d87973a9-a4bd-403a-9d31-e3dfe170ac63 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__d87973a9-a4bd-403a-9d31-e3dfe170ac63 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Situé à l'est de COLORIA, le Lac de l'Aube brille d'une lumière douce et apaisante dès les premières lueurs du jour. Il est entouré de plantes exotiques et de fleurs colorées qui s'épanouissent avec les premiers rayons de soleil. Les rives bordées de plantes exotiques et de fleurs étranges, et des créatures aquatiques fascinantes se cachent dans les profondeurs.
 

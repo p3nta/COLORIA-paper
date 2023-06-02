@@ -6,7 +6,7 @@ description: >-
 
 # Montagnes de cristal
 
-<figure><img src="../../.gitbook/assets/Jeem_Majestic_and_imposing_mountains_formed_of_shimmering_cryst_501933b1-9ff4-49da-a399-9fdb631604eb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../en/.gitbook/assets/Jeem_Majestic_and_imposing_mountains_formed_of_shimmering_cryst_501933b1-9ff4-49da-a399-9fdb631604eb.png" alt=""><figcaption></figcaption></figure>
 
 Les sommets sont couronnés de neige éternelle, tandis que les profondeurs abritent des grottes étincelantes et des rivières souterraines cristallines.
 
