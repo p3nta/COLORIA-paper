@@ -1,6 +1,6 @@
 # Creative District
 
-<figure><img src="../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__32c96a88-597d-4e3a-ab40-fa9ab0bf7405.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../fr/.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__32c96a88-597d-4e3a-ab40-fa9ab0bf7405.png" alt=""><figcaption></figcaption></figure>
 
 The Creative District is the perfect place for artists and creatives who wish to display their work to the Colorians. This area is divided into two parts: the Exhibition and the Workshop.
 

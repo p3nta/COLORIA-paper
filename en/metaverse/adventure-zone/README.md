@@ -1,6 +1,6 @@
-# Zone d'aventure
+# Adventure Zone
 
-<figure><img src="../../.gitbook/assets/tontontac_A_place_for_brave_adventurers_who_seek_to_explore_dis_eb1237e1-f85b-4649-973c-035f6372f05c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../fr/.gitbook/assets/tontontac_A_place_for_brave_adventurers_who_seek_to_explore_dis_eb1237e1-f85b-4649-973c-035f6372f05c.png" alt=""><figcaption></figcaption></figure>
 
 Colorians will be able to immerse themselves in epic solo or group adventures, where they will have to face fantastic creatures and discover hidden treasures in mystical dungeons, hills, or troglodyte canyons. They can also challenge other Colorians or their companions in "magical" combat arenas to win even more valuable rewards or Bonus Points.
 

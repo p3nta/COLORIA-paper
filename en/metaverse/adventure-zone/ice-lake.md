@@ -1,6 +1,6 @@
-# Lac des Glaces
+# Ice Lake
 
-<figure><img src="../../.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9d6df9c8-7a3f-4759-91aa-d8919e1925b1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../fr/.gitbook/assets/Jeem_a_land_of_endless_possibilities_and_creative_exploration.__9d6df9c8-7a3f-4759-91aa-d8919e1925b1.png" alt=""><figcaption></figcaption></figure>
 
 Located at the summit of the crystal mountains, the Ice Lake is governed by eternal snow and freezing temperatures. However, a rich flora and fauna have found refuge there, offering a unique and captivating ambiance.
 

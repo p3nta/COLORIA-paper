@@ -1,6 +1,6 @@
-# Montagnes de cristal
+# Crystal Mountains
 
-<figure><img src="../../.gitbook/assets/Jeem_Majestic_and_imposing_mountains_formed_of_shimmering_cryst_501933b1-9ff4-49da-a399-9fdb631604eb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../fr/.gitbook/assets/Jeem_Majestic_and_imposing_mountains_formed_of_shimmering_cryst_501933b1-9ff4-49da-a399-9fdb631604eb.png" alt=""><figcaption></figcaption></figure>
 
 The peaks are crowned with eternal snow, while the depths house sparkling caves and crystalline underground rivers.
 

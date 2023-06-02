@@ -1,6 +1,6 @@
-# Forêt iridescente
+# Iridescent Forest
 
-<figure><img src="../../.gitbook/assets/Jeem_A_dazzling_forest_of_shimmering_colors_and_strange_organic_6460d781-9f3a-4e97-b91f-01c54e298d74 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Jeem_A_dazzling_forest_of_shimmering_colors_and_strange_organic_6460d781-9f3a-4e97-b91f-01c54e298d74.png" alt=""><figcaption></figcaption></figure>
 
 The forest would be an enchanting and mystical place, inhabited by strange and fascinating creatures. The trees would be immense and majestic, with twisted trunks and shiny leaves in pastel and rainbow tones, in harmony with the COLORIA world. The flowers would be numerous, with vibrant colors and exotic shapes.
 
