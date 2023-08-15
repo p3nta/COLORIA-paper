@@ -1,4 +1,4 @@
-# Ring
+# T-Ring
 
 "Coloria Ring" is a collection of exclusive NFTs that provide access to the COLORIA metaverse. Each T-Ring is unique and offers its owner unique benefits and privileges within the virtual world. T-Rings are a way to ensure a certain rarity in the digital universe and reward the most active and involved members of the community.
 
@@ -18,26 +18,26 @@ By offering increasing benefits to holders who join the project early, this appr
 
 The distribution of 4000 Rings per level, with increasing prices and decreasing benefits, will enhance our ability to reward and retain those who believe in our project, thereby creating a real advantage for them.
 
-| Level | Quantity | Price (CAPS) | Life Discount |
-| ----- | -------- | ------------ | ------------- |
-| 0     | 24       | 0            | 100%          |
-| 1     | 50       | 50           | 95%           |
-| 2     | 100      | 100          | 90%           |
-| 3     | 158      | 200          | 85%           |
-| 4     | 166      | 400          | 80%           |
-| 5     | 178      | 600          | 75%           |
-| 6     | 821      | 800          | 70%           |
-| 7     | 189      | 1000         | 65%           |
-| 8     | 190      | 1250         | 60%           |
-| 9     | 197      | 1500         | 55%           |
-| 10    | 200      | 1800         | 50%           |
-| 11    | 228      | 2100         | 45%           |
-| 12    | 243      | 2400         | 40%           |
-| 13    | 246      | 2700         | 35%           |
-| 14    | 254      | 3000         | 30%           |
-| 15    | 280      | 3300         | 25%           |
-| 16    | 291      | 3600         | 20%           |
-| 17    | 309      | 3900         | 15%           |
-| 18    | 311      | 4200         | 10%           |
-| 19    | 313      | 4500         | 5%            |
-| 20    | 325      | 5000         | 2,5%          |
+| Level | Quantity | Life Discount |
+| ----- | -------- | ------------- |
+| 0     | 24       | 100%          |
+| 1     | 50       | 95%           |
+| 2     | 100      | 90%           |
+| 3     | 158      | 85%           |
+| 4     | 166      | 80%           |
+| 5     | 178      | 75%           |
+| 6     | 821      | 70%           |
+| 7     | 189      | 65%           |
+| 8     | 190      | 60%           |
+| 9     | 197      | 55%           |
+| 10    | 200      | 50%           |
+| 11    | 228      | 45%           |
+| 12    | 243      | 40%           |
+| 13    | 246      | 35%           |
+| 14    | 254      | 30%           |
+| 15    | 280      | 25%           |
+| 16    | 291      | 20%           |
+| 17    | 309      | 15%           |
+| 18    | 311      | 10%           |
+| 19    | 313      | 5%            |
+| 20    | 325      | 2,5%          |
